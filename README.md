@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @genedy404
+- 👋 Hi, I’m Ahmed A.Genedy
 - 👀 I’m interested in Computer science,AI,MI,Data Science and Data Anaylsis
 - 🌱 I’m currently learning Data Anaylsis
 - 💞️ I’m looking to collaborate on any project or task that makes me challange my skills and make me improve it 
